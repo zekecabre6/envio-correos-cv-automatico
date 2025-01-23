@@ -1,5 +1,4 @@
 
-```markdown
 # Envío Automático de Correos con CV Adjunto
 
 Este proyecto permite enviar correos electrónicos automáticamente a una lista de destinatarios utilizando un servidor SMTP, adjuntando un CV en formato PDF. Es ideal para realizar postulaciones laborales masivas de manera eficiente.
