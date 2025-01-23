@@ -104,11 +104,6 @@ aprovechalo al maximo y agradeceme en mi instagram zekecabre6
 ```
 GRACIAS
 ```
-## Descargo de responsabilidad
-
-Este código ha sido desarrollado con fines educativos y de contribución a la comunidad. No soy responsable del uso que se le pueda dar a este proyecto, ni de las consecuencias que puedan surgir al utilizarlo. Se ofrece como una herramienta para aprender y mejorar las habilidades de programación.
-
-El uso de este código es bajo tu propio riesgo.
 
 ##Palabras clave generales sobre el propósito del proyecto:
 Automatización
@@ -152,3 +147,10 @@ Script Python para email marketing
 Envío de correos automatizado con Python
 Proyecto de automatización de correos electrónicos
 Repositorio de código para enviar CV
+
+
+## Descargo de responsabilidad
+
+Este código ha sido desarrollado con fines educativos y de contribución a la comunidad. No soy responsable del uso que se le pueda dar a este proyecto, ni de las consecuencias que puedan surgir al utilizarlo. Se ofrece como una herramienta para aprender y mejorar las habilidades de programación.
+
+El uso de este código es bajo tu propio riesgo.
