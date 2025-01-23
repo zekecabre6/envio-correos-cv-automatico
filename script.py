@@ -48,6 +48,7 @@ quien_soy = [
 ]
 
 # Variaciones del asunto
+# editalo a tu gusto!
 asuntos = [
     "Desarrollador Web Full Stack",
     "Web Developer"
