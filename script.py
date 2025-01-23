@@ -82,3 +82,4 @@ for i in range(0, len(destinatarios), BLOQUE_TAMANO):
 
     print(f"Bloque de {len(bloque)} correos enviado. Esperando {PAUSA_SEGUNDOS} segundos antes de continuar...")
     time.sleep(PAUSA_SEGUNDOS)
+ #GRACIAS
