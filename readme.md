@@ -109,3 +109,46 @@ GRACIAS
 Este código ha sido desarrollado con fines educativos y de contribución a la comunidad. No soy responsable del uso que se le pueda dar a este proyecto, ni de las consecuencias que puedan surgir al utilizarlo. Se ofrece como una herramienta para aprender y mejorar las habilidades de programación.
 
 El uso de este código es bajo tu propio riesgo.
+
+##Palabras clave generales sobre el propósito del proyecto:
+Automatización
+Envío automático de correos
+Automatización de CV
+Envío masivo de correos
+Automatización de reclutamiento
+Correo masivo con Python
+Envío de emails automatizado
+Enviar CV a empresas automáticamente
+Envío automático de curriculum
+Palabras clave relacionadas con el uso:
+Curriculum Vitae
+Aplicación para enviar CV
+Aplicación de envío masivo de correos
+Envío de correos con Python
+Enviar CV a empresas
+Automático
+Automatización de procesos
+Enviar CV por correo electrónico
+Herramienta para enviar CV
+Tecnologías utilizadas:
+Python
+SMTP
+Email automation with Python
+Automated email sending script
+Correo electrónico Python
+SMTP server Python
+Envío de correos con Python
+Scripts Python para enviar correos
+Enviar emails desde Python
+Automatización con Python
+Python para enviar correos masivos
+Palabras clave relacionadas con el proyecto:
+Open-source
+Contribuciones a la comunidad
+Proyecto para desarrolladores
+Automatización para reclutadores
+Software para envío de correos masivos
+Script Python para email marketing
+Envío de correos automatizado con Python
+Proyecto de automatización de correos electrónicos
+Repositorio de código para enviar CV
