@@ -31,6 +31,7 @@ def enviar_email(destinatario, asunto, cuerpo, cv_path, remitente, password, smt
         print(f"Error al enviar el correo: {e}")
 
 # Descripción de quien eres (enfocada en tus habilidades y servicios)
+# edita el codigo a tu gusto!
 quien_soy = [
     """
     Estimado/a {empresa}:
