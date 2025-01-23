@@ -150,7 +150,8 @@ Repositorio de código para enviar CV
 
 
 ## Descargo de responsabilidad
-
 Este código ha sido desarrollado con fines educativos y de contribución a la comunidad. No soy responsable del uso que se le pueda dar a este proyecto, ni de las consecuencias que puedan surgir al utilizarlo. Se ofrece como una herramienta para aprender y mejorar las habilidades de programación.
 
 El uso de este código es bajo tu propio riesgo.
+
+Además, la lista de correos electrónicos incluida en este repositorio tiene fines meramente informativos y no soy responsable de su uso. Los correos electrónicos proporcionados son solo un recurso y no garantizan que sean apropiados o válidos para cualquier propósito. Es responsabilidad del usuario utilizar esta información de manera ética y legal.
