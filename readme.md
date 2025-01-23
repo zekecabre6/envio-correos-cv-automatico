@@ -3,7 +3,7 @@
 
 Este proyecto permite enviar correos electrónicos automáticamente a una lista de destinatarios utilizando un servidor SMTP, adjuntando un CV en formato PDF. Es ideal para realizar postulaciones laborales masivas de manera eficiente.
 
-**Nota**: Este script incluye una lista de más de **769 correos** de **importantes empresas**, lo que permite realizar envíos masivos a organizaciones destacadas con facilidad. Ejemplos de empresas en la lista:
+**Nota**: Este script incluye una lista de más de **700 correos** de **importantes empresas**, lo que permite realizar envíos masivos a organizaciones destacadas con facilidad. Ejemplos de empresas en la lista:
 
 ```json
 [
