@@ -105,7 +105,7 @@ aprovechalo al maximo y agradeceme en mi instagram zekecabre6
 GRACIAS
 ```
 
-##Palabras clave generales sobre el propósito del proyecto:
+## Palabras clave generales sobre el propósito del proyecto:
 Automatización
 Envío automático de correos
 Automatización de CV
